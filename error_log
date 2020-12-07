@@ -1,0 +1,13 @@
+[07-Dec-2020 03:13:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bchadwi1/public_html/dotcomMigrate/includes/formFunctions.php on line 17
+[07-Dec-2020 03:13:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bchadwi1/public_html/dotcomMigrate/includes/formFunctions.php on line 17
+[07-Dec-2020 03:13:28 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/bchadwi1/public_html/dotcomMigrate/confirmation.php on line 78
+[07-Dec-2020 03:15:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bchadwi1/public_html/dotcomMigrate/includes/formFunctions.php on line 17
+[07-Dec-2020 03:15:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bchadwi1/public_html/dotcomMigrate/includes/formFunctions.php on line 17
+[07-Dec-2020 03:15:56 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/bchadwi1/public_html/dotcomMigrate/confirmation.php on line 78
+[07-Dec-2020 05:46:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/bchadwi1/public_html/dotcomMigrate/includes/formFunctions.php on line 17
+[07-Dec-2020 05:46:22 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/bchadwi1/public_html/dotcomMigrate/confirmation.php on line 74
+[07-Dec-2020 18:17:05 UTC] PHP Notice:  Undefined index: Note in /home/bchadwi1/public_html/dotcomMigrate/control2.php on line 102
+[07-Dec-2020 18:17:05 UTC] PHP Notice:  Undefined index: Note in /home/bchadwi1/public_html/dotcomMigrate/control2.php on line 102
+[07-Dec-2020 18:17:05 UTC] PHP Notice:  Undefined index: Note in /home/bchadwi1/public_html/dotcomMigrate/control2.php on line 102
+[07-Dec-2020 18:17:05 UTC] PHP Notice:  Undefined index: Note in /home/bchadwi1/public_html/dotcomMigrate/control2.php on line 102
+[07-Dec-2020 18:17:05 UTC] PHP Notice:  Undefined index: Note in /home/bchadwi1/public_html/dotcomMigrate/control2.php on line 102
